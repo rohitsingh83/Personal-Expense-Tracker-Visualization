@@ -1,0 +1,26 @@
+tx_date,description,amount,payment_method,account,raw_source
+2026-09-01,Monthly Stipend Internship,25000,Bank Transfer,HDFC-Savings,bank_csv
+2026-09-02,Swiggy Dinner Order,-340,UPI,HDFC-UPI,upi_csv
+2026-09-03,DMart Grocery Shopping,-1850,UPI,HDFC-UPI,upi_csv
+2026-09-04,Hyderabad Metro Recharge,-400,UPI,PhonePe,upi_csv
+2026-09-05,Electricity Bill TSSPDCL,-1250,NetBanking,HDFC-Savings,bank_csv
+2026-09-07,Amazon Wireless Mouse,-1199,Credit Card,ICICI-Card,card_csv
+2026-09-09,Zomato Lunch,-280,UPI,GPay,upi_csv
+2026-09-12,BookMyShow Movie Tickets,-650,UPI,PhonePe,upi_csv
+2026-09-15,Uber Cab Ride,-320,UPI,GPay,upi_csv
+2026-09-18,Reliance Fresh Vegetables,-920,UPI,HDFC-UPI,upi_csv
+2026-09-22,Airtel Mobile Recharge,-599,UPI,GPay,upi_csv
+2026-09-26,Freelance Python Script,8000,Bank Transfer,HDFC-Savings,bank_csv
+2026-09-28,Cafe Coffee Day,-410,Credit Card,ICICI-Card,card_csv
+2026-10-01,Monthly Stipend Internship,25000,Bank Transfer,HDFC-Savings,bank_csv
+2026-10-02,BigBasket Groceries,-2100,UPI,HDFC-UPI,upi_csv
+2026-10-04,Swiggy Biryani,-450,UPI,GPay,upi_csv
+2026-10-06,Rapido Bike Ride,-145,UPI,PhonePe,upi_csv
+2026-10-08,JioFiber Internet Bill,-999,NetBanking,HDFC-Savings,bank_csv
+2026-10-10,Myntra Kurta Purchase,-1799,Credit Card,ICICI-Card,card_csv
+2026-10-12,Netflix Monthly Plan,-499,Credit Card,ICICI-Card,card_csv
+2026-10-15,DMart Household Items,-1420,UPI,HDFC-UPI,upi_csv
+2026-10-18,Zomato Pizza,-580,UPI,GPay,upi_csv
+2026-10-21,Petrol Pump Fuel,-1200,UPI,PhonePe,upi_csv
+2026-10-25,Electricity Bill TSSPDCL,-1380,NetBanking,HDFC-Savings,bank_csv
+2026-10-29,Spotify Premium,-119,UPI,GPay,upi_csv
