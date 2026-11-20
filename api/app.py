@@ -38,3 +38,4 @@ def get_budget(month: str):
     budget_df = check_budgets(df, conn, month)
     conn.close()
     return {"month": month, "budgets": budget_df.to_dict(orient="records")}
+
