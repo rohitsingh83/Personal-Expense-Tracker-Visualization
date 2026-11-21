@@ -1,0 +1,245 @@
+date,description,category,amount,payment_method,type
+2026-06-01,Salary - CloudNest Technologies,Salary,58000.0,Net Banking,income
+2026-06-01,Zepto quick delivery,Groceries,280.0,UPI,expense
+2026-06-02,Zomato order,Food & Dining,320.0,UPI,expense
+2026-06-03,HP petrol pump,Transport,1010.0,Credit Card,expense
+2026-06-04,Starbucks coffee,Food & Dining,370.0,Credit Card,expense
+2026-06-05,House rent - Koramangala PG,Rent,14000.0,Net Banking,expense
+2026-06-05,BookMyShow movie,Entertainment,760.0,UPI,expense
+2026-06-06,Office canteen,Food & Dining,130.0,UPI,expense
+2026-06-06,Zepto quick delivery,Groceries,270.0,UPI,expense
+2026-06-06,PVR snacks,Entertainment,310.0,UPI,expense
+2026-06-07,BESCOM electricity bill,Bills & Utilities,1435.0,UPI,expense
+2026-06-07,BookMyShow movie,Entertainment,780.0,UPI,expense
+2026-06-09,Zomato order,Food & Dining,570.0,Credit Card,expense
+2026-06-10,Airtel postpaid + broadband,Bills & Utilities,1299.0,Credit Card,expense
+2026-06-12,Zepto quick delivery,Groceries,240.0,UPI,expense
+2026-06-12,Dinner at Truffles,Food & Dining,1880.0,Credit Card,expense
+2026-06-12,Netflix subscription,Entertainment,649.0,Credit Card,expense
+2026-06-13,Ola auto,Transport,90.0,UPI,expense
+2026-06-13,Kindle book,Education,350.0,Credit Card,expense
+2026-06-14,PVR snacks,Entertainment,580.0,UPI,expense
+2026-06-15,HP petrol pump,Transport,1550.0,Credit Card,expense
+2026-06-15,LIC premium,Bills & Utilities,2100.0,Net Banking,expense
+2026-06-16,Namma Metro recharge,Transport,500.0,UPI,expense
+2026-06-17,Zomato order,Food & Dining,230.0,UPI,expense
+2026-06-17,Ola auto,Transport,70.0,UPI,expense
+2026-06-18,Office canteen,Food & Dining,100.0,UPI,expense
+2026-06-19,Office canteen,Food & Dining,110.0,UPI,expense
+2026-06-20,Swiggy order,Food & Dining,300.0,UPI,expense
+2026-06-20,Ola auto,Transport,110.0,UPI,expense
+2026-06-20,PVR snacks,Entertainment,280.0,UPI,expense
+2026-06-21,Spotify Premium,Entertainment,119.0,Credit Card,expense
+2026-06-21,Zepto quick delivery,Groceries,410.0,UPI,expense
+2026-06-22,Apollo Pharmacy,Health,790.0,UPI,expense
+2026-06-22,Uber ride,Transport,360.0,UPI,expense
+2026-06-22,Dinner at Truffles,Food & Dining,1760.0,Credit Card,expense
+2026-06-22,PVR snacks,Entertainment,420.0,UPI,expense
+2026-06-23,Ola auto,Transport,160.0,UPI,expense
+2026-06-25,Swiggy order,Food & Dining,180.0,UPI,expense
+2026-06-25,BigBasket groceries,Groceries,1410.0,UPI,expense
+2026-06-26,Cult.fit session,Health,499.0,UPI,expense
+2026-06-27,Swiggy order,Food & Dining,600.0,UPI,expense
+2026-06-28,Swiggy order,Food & Dining,220.0,UPI,expense
+2026-06-28,Namma Metro recharge,Transport,500.0,UPI,expense
+2026-06-29,BigBasket groceries,Groceries,2110.0,UPI,expense
+2026-06-30,Swiggy order,Food & Dining,600.0,UPI,expense
+2026-07-01,PVR snacks,Entertainment,570.0,UPI,expense
+2026-07-01,Ola auto,Transport,220.0,UPI,expense
+2026-07-01,Salary - CloudNest Technologies,Salary,58000.0,Net Banking,income
+2026-07-03,Apollo Pharmacy,Health,450.0,UPI,expense
+2026-07-05,Starbucks coffee,Food & Dining,290.0,Credit Card,expense
+2026-07-05,DMart shopping,Groceries,2070.0,Debit Card,expense
+2026-07-05,PVR snacks,Entertainment,320.0,UPI,expense
+2026-07-05,Udemy course,Education,580.0,Credit Card,expense
+2026-07-05,House rent - Koramangala PG,Rent,14000.0,Net Banking,expense
+2026-07-07,BESCOM electricity bill,Bills & Utilities,1462.0,UPI,expense
+2026-07-07,Ola auto,Transport,100.0,Cash,expense
+2026-07-08,Zepto quick delivery,Groceries,270.0,UPI,expense
+2026-07-09,Namma Metro recharge,Transport,500.0,UPI,expense
+2026-07-10,Airtel postpaid + broadband,Bills & Utilities,1299.0,Credit Card,expense
+2026-07-10,Swiggy order,Food & Dining,200.0,UPI,expense
+2026-07-11,Office canteen,Food & Dining,100.0,UPI,expense
+2026-07-12,Netflix subscription,Entertainment,649.0,Credit Card,expense
+2026-07-12,BookMyShow movie,Entertainment,780.0,UPI,expense
+2026-07-14,Namma Metro recharge,Transport,500.0,UPI,expense
+2026-07-15,Starbucks coffee,Food & Dining,430.0,Credit Card,expense
+2026-07-15,LIC premium,Bills & Utilities,2100.0,Net Banking,expense
+2026-07-15,Ola auto,Transport,180.0,UPI,expense
+2026-07-16,PVR snacks,Entertainment,380.0,UPI,expense
+2026-07-18,Freelance website project,Freelance,12000.0,Net Banking,income
+2026-07-18,Starbucks coffee,Food & Dining,340.0,Credit Card,expense
+2026-07-20,Namma Metro recharge,Transport,500.0,UPI,expense
+2026-07-21,Cult.fit session,Health,499.0,UPI,expense
+2026-07-22,Apollo Pharmacy,Health,330.0,UPI,expense
+2026-07-24,Zomato order,Food & Dining,680.0,UPI,expense
+2026-07-25,Dinner at Truffles,Food & Dining,1800.0,Credit Card,expense
+2026-07-25,Zepto quick delivery,Groceries,620.0,UPI,expense
+2026-07-25,PVR snacks,Entertainment,400.0,UPI,expense
+2026-07-26,Office canteen,Food & Dining,150.0,UPI,expense
+2026-07-28,Uber ride,Transport,250.0,UPI,expense
+2026-07-29,Namma Metro recharge,Transport,500.0,UPI,expense
+2026-07-29,Starbucks coffee,Food & Dining,290.0,Credit Card,expense
+2026-07-30,Spotify Premium,Entertainment,119.0,Credit Card,expense
+2026-07-30,HP petrol pump,Transport,1280.0,Credit Card,expense
+2026-08-01,Starbucks coffee,Food & Dining,300.0,Credit Card,expense
+2026-08-01,Salary - CloudNest Technologies,Salary,58000.0,Net Banking,income
+2026-08-03,Starbucks coffee,Food & Dining,290.0,Credit Card,expense
+2026-08-03,Uber ride,Transport,510.0,UPI,expense
+2026-08-04,Cult.fit session,Health,499.0,UPI,expense
+2026-08-05,House rent - Koramangala PG,Rent,14000.0,Net Banking,expense
+2026-08-05,DMart shopping,Groceries,2570.0,Debit Card,expense
+2026-08-05,Namma Metro recharge,Transport,500.0,UPI,expense
+2026-08-07,BookMyShow movie,Entertainment,400.0,UPI,expense
+2026-08-07,BESCOM electricity bill,Bills & Utilities,1092.0,UPI,expense
+2026-08-07,DMart shopping,Groceries,1400.0,Debit Card,expense
+2026-08-08,Namma Metro recharge,Transport,500.0,UPI,expense
+2026-08-10,Ola auto,Transport,190.0,Cash,expense
+2026-08-10,Airtel postpaid + broadband,Bills & Utilities,1299.0,Credit Card,expense
+2026-08-11,Dinner at Truffles,Food & Dining,1540.0,Credit Card,expense
+2026-08-11,Apollo Pharmacy,Health,870.0,UPI,expense
+2026-08-12,Netflix subscription,Entertainment,649.0,Credit Card,expense
+2026-08-12,Ola auto,Transport,140.0,Cash,expense
+2026-08-13,Zepto quick delivery,Groceries,370.0,UPI,expense
+2026-08-14,IndiGo flight to Goa,Travel,6400.0,Credit Card,expense
+2026-08-15,LIC premium,Bills & Utilities,2100.0,Net Banking,expense
+2026-08-15,Dinner at Truffles,Food & Dining,1970.0,Credit Card,expense
+2026-08-15,Spotify Premium,Entertainment,119.0,Credit Card,expense
+2026-08-15,Goa beach resort,Travel,7800.0,Credit Card,expense
+2026-08-16,Dinner at Truffles,Food & Dining,1070.0,Credit Card,expense
+2026-08-17,BigBasket groceries,Groceries,1340.0,UPI,expense
+2026-08-17,Dinner at Truffles,Food & Dining,920.0,Credit Card,expense
+2026-08-19,HP petrol pump,Transport,1010.0,Credit Card,expense
+2026-08-20,HP petrol pump,Transport,1010.0,Credit Card,expense
+2026-08-21,Decathlon sports,Shopping,1500.0,Debit Card,expense
+2026-08-22,Namma Metro recharge,Transport,500.0,UPI,expense
+2026-08-25,Amazon order,Shopping,1090.0,Credit Card,expense
+2026-08-26,Uber ride,Transport,250.0,UPI,expense
+2026-08-26,Swiggy order,Food & Dining,390.0,UPI,expense
+2026-08-27,Zomato order,Food & Dining,240.0,Credit Card,expense
+2026-08-27,Ola auto,Transport,100.0,Cash,expense
+2026-08-28,Dinner at Truffles,Food & Dining,1110.0,Credit Card,expense
+2026-08-29,Office canteen,Food & Dining,150.0,UPI,expense
+2026-08-30,Cult.fit session,Health,499.0,UPI,expense
+2026-08-31,Starbucks coffee,Food & Dining,290.0,Credit Card,expense
+2026-09-01,Salary - CloudNest Technologies,Salary,58000.0,Net Banking,income
+2026-09-02,Office canteen,Food & Dining,90.0,UPI,expense
+2026-09-04,Zomato order,Food & Dining,630.0,Credit Card,expense
+2026-09-04,Apollo Pharmacy,Health,490.0,UPI,expense
+2026-09-05,Ola auto,Transport,140.0,Cash,expense
+2026-09-05,Cult.fit session,Health,499.0,UPI,expense
+2026-09-05,House rent - Koramangala PG,Rent,14000.0,Net Banking,expense
+2026-09-06,Ola auto,Transport,200.0,UPI,expense
+2026-09-06,Swiggy order,Food & Dining,620.0,UPI,expense
+2026-09-07,BESCOM electricity bill,Bills & Utilities,1333.0,UPI,expense
+2026-09-07,HP petrol pump,Transport,1290.0,Credit Card,expense
+2026-09-08,Namma Metro recharge,Transport,500.0,UPI,expense
+2026-09-08,Office canteen,Food & Dining,160.0,UPI,expense
+2026-09-08,DMart shopping,Groceries,1930.0,Debit Card,expense
+2026-09-09,Dinner at Truffles,Food & Dining,2160.0,Credit Card,expense
+2026-09-09,Ola auto,Transport,190.0,UPI,expense
+2026-09-10,Uber ride,Transport,250.0,UPI,expense
+2026-09-10,Airtel postpaid + broadband,Bills & Utilities,1299.0,Credit Card,expense
+2026-09-11,Zepto quick delivery,Groceries,580.0,UPI,expense
+2026-09-11,Myntra fashion,Shopping,920.0,Credit Card,expense
+2026-09-12,Netflix subscription,Entertainment,649.0,Credit Card,expense
+2026-09-12,Ola auto,Transport,210.0,UPI,expense
+2026-09-13,Zepto quick delivery,Groceries,620.0,UPI,expense
+2026-09-14,Zepto quick delivery,Groceries,490.0,UPI,expense
+2026-09-15,DMart shopping,Groceries,2500.0,Debit Card,expense
+2026-09-15,LIC premium,Bills & Utilities,2100.0,Net Banking,expense
+2026-09-17,PVR snacks,Entertainment,450.0,UPI,expense
+2026-09-17,Swiggy order,Food & Dining,220.0,UPI,expense
+2026-09-18,Myntra fashion,Shopping,2120.0,Credit Card,expense
+2026-09-19,Zepto quick delivery,Groceries,470.0,UPI,expense
+2026-09-19,Swiggy order,Food & Dining,340.0,UPI,expense
+2026-09-20,Starbucks coffee,Food & Dining,260.0,Credit Card,expense
+2026-09-20,BookMyShow movie,Entertainment,640.0,UPI,expense
+2026-09-21,DMart shopping,Groceries,1630.0,Debit Card,expense
+2026-09-21,OnePlus phone - Amazon,Shopping,27999.0,Credit Card,expense
+2026-09-22,Uber ride,Transport,400.0,UPI,expense
+2026-09-23,Dinner at Truffles,Food & Dining,1050.0,Credit Card,expense
+2026-09-23,DMart shopping,Groceries,2560.0,Debit Card,expense
+2026-09-24,Zomato order,Food & Dining,580.0,Credit Card,expense
+2026-09-24,HP petrol pump,Transport,1370.0,Credit Card,expense
+2026-09-26,Office canteen,Food & Dining,130.0,UPI,expense
+2026-09-26,PVR snacks,Entertainment,410.0,UPI,expense
+2026-09-27,Dinner at Truffles,Food & Dining,1420.0,Credit Card,expense
+2026-09-28,Dinner at Truffles,Food & Dining,1150.0,Credit Card,expense
+2026-09-29,Zomato order,Food & Dining,580.0,UPI,expense
+2026-10-01,Salary - CloudNest Technologies,Salary,58000.0,Net Banking,income
+2026-10-01,Cult.fit session,Health,499.0,UPI,expense
+2026-10-01,Office canteen,Food & Dining,130.0,UPI,expense
+2026-10-04,Swiggy order,Food & Dining,560.0,UPI,expense
+2026-10-04,Ola auto,Transport,80.0,Cash,expense
+2026-10-05,House rent - Koramangala PG,Rent,14000.0,Net Banking,expense
+2026-10-05,PVR snacks,Entertainment,480.0,UPI,expense
+2026-10-07,DMart shopping,Groceries,3080.0,Debit Card,expense
+2026-10-07,Starbucks coffee,Food & Dining,310.0,Credit Card,expense
+2026-10-07,BESCOM electricity bill,Bills & Utilities,1459.0,UPI,expense
+2026-10-08,Kindle book,Education,250.0,Credit Card,expense
+2026-10-09,Uber ride,Transport,330.0,UPI,expense
+2026-10-09,Freelance data dashboard,Freelance,8500.0,Net Banking,income
+2026-10-09,Office canteen,Food & Dining,100.0,UPI,expense
+2026-10-10,Namma Metro recharge,Transport,500.0,UPI,expense
+2026-10-10,Airtel postpaid + broadband,Bills & Utilities,1299.0,Credit Card,expense
+2026-10-10,Zomato order,Food & Dining,620.0,UPI,expense
+2026-10-11,HP petrol pump,Transport,1120.0,Credit Card,expense
+2026-10-11,Zomato order,Food & Dining,350.0,Credit Card,expense
+2026-10-12,Zepto quick delivery,Groceries,630.0,UPI,expense
+2026-10-12,Dinner at Truffles,Food & Dining,1080.0,Credit Card,expense
+2026-10-12,Netflix subscription,Entertainment,649.0,Credit Card,expense
+2026-10-15,Swiggy order,Food & Dining,570.0,UPI,expense
+2026-10-15,Namma Metro recharge,Transport,500.0,UPI,expense
+2026-10-15,LIC premium,Bills & Utilities,2100.0,Net Banking,expense
+2026-10-16,Swiggy order,Food & Dining,190.0,UPI,expense
+2026-10-17,Swiggy order,Food & Dining,290.0,UPI,expense
+2026-10-17,Zepto quick delivery,Groceries,480.0,UPI,expense
+2026-10-17,Kindle book,Education,270.0,Credit Card,expense
+2026-10-18,Swiggy order,Food & Dining,430.0,UPI,expense
+2026-10-18,DMart shopping,Groceries,2290.0,Debit Card,expense
+2026-10-19,PVR snacks,Entertainment,370.0,UPI,expense
+2026-10-19,Swiggy order,Food & Dining,340.0,UPI,expense
+2026-10-20,Ola auto,Transport,80.0,Cash,expense
+2026-10-20,Amazon order,Shopping,490.0,Credit Card,expense
+2026-10-21,Decathlon sports,Shopping,960.0,Debit Card,expense
+2026-10-21,Cult.fit session,Health,499.0,UPI,expense
+2026-10-24,Decathlon sports,Shopping,1160.0,Debit Card,expense
+2026-10-24,Diwali gifts and sweets,Shopping,4200.0,UPI,expense
+2026-10-25,Swiggy order,Food & Dining,520.0,UPI,expense
+2026-10-25,Cult.fit session,Health,499.0,UPI,expense
+2026-10-26,HP petrol pump,Transport,730.0,Credit Card,expense
+2026-10-27,Zomato order,Food & Dining,540.0,Credit Card,expense
+2026-10-28,Swiggy order,Food & Dining,190.0,UPI,expense
+2026-10-30,Namma Metro recharge,Transport,500.0,UPI,expense
+2026-10-31,Zomato order,Food & Dining,600.0,UPI,expense
+2026-10-31,BigBasket groceries,Groceries,1870.0,UPI,expense
+2026-10-31,Decathlon sports,Shopping,1690.0,Debit Card,expense
+2026-11-01,Starbucks coffee,Food & Dining,330.0,Credit Card,expense
+2026-11-01,Spotify Premium,Entertainment,119.0,Credit Card,expense
+2026-11-01,Salary - CloudNest Technologies,Salary,58000.0,Net Banking,income
+2026-11-02,Dinner at Truffles,Food & Dining,1730.0,Credit Card,expense
+2026-11-02,Uber ride,Transport,460.0,UPI,expense
+2026-11-03,Uber ride,Transport,240.0,UPI,expense
+2026-11-03,Manipal hospital bill,Health,9800.0,Debit Card,expense
+2026-11-04,Dinner at Truffles,Food & Dining,1100.0,Credit Card,expense
+2026-11-04,BookMyShow movie,Entertainment,870.0,UPI,expense
+2026-11-05,House rent - Koramangala PG,Rent,14000.0,Net Banking,expense
+2026-11-06,Uber ride,Transport,400.0,UPI,expense
+2026-11-07,BESCOM electricity bill,Bills & Utilities,1100.0,UPI,expense
+2026-11-08,Zomato order,Food & Dining,430.0,Credit Card,expense
+2026-11-08,Uber ride,Transport,250.0,UPI,expense
+2026-11-10,Airtel postpaid + broadband,Bills & Utilities,1299.0,Credit Card,expense
+2026-11-10,Cult.fit session,Health,499.0,UPI,expense
+2026-11-10,HP petrol pump,Transport,1150.0,Credit Card,expense
+2026-11-11,Swiggy order,Food & Dining,380.0,UPI,expense
+2026-11-12,DMart shopping,Groceries,2100.0,Debit Card,expense
+2026-11-12,Netflix subscription,Entertainment,649.0,Credit Card,expense
+2026-11-14,Swiggy order,Food & Dining,240.0,UPI,expense
+2026-11-15,LIC premium,Bills & Utilities,2100.0,Net Banking,expense
+2026-11-15,Office canteen,Food & Dining,160.0,UPI,expense
+2026-11-16,Cult.fit session,Health,499.0,UPI,expense
+2026-11-16,Starbucks coffee,Food & Dining,380.0,Credit Card,expense
+2026-11-18,Ola auto,Transport,70.0,UPI,expense
+2026-11-19,Dinner at Truffles,Food & Dining,1910.0,Credit Card,expense
+2026-11-19,Amazon order,Shopping,1980.0,Credit Card,expense
