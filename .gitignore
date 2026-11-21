@@ -1,9 +1,11 @@
 __pycache__/
 *.py[cod]
-venv/
 .venv/
+venv/
 .env
-db/*.db
-reports/*
-!data/*.csv
+.pytest_cache/
 .DS_Store
+.idea/
+.vscode/
+# personal database, recreated from data/expenses.csv on first run
+data/expenses.db
