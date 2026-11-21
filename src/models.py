@@ -34,6 +34,7 @@ CREATE TABLE IF NOT EXISTS budgets (
 
 
 def get_connection(db_path: Path) -> sqlite3.Connection:
+    Path(db_path).parent.mkdir(parents=True, exist_ok=True)
     conn = sqlite3.connect(str(db_path))
     conn.executescript(SCHEMA_SQL)
     return conn

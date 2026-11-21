@@ -10,6 +10,7 @@ from src.plots import generate_all_charts
 from src.report import export_excel_report
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s | %(levelname)s | %(message)s")
+logging.getLogger("matplotlib").setLevel(logging.WARNING)  # hide matplotlib INFO noise
 logger = logging.getLogger("expense_tracker")
 
 

@@ -1,9 +1,9 @@
 """FastAPI backend service for Personal Expense Tracker."""
 from pathlib import Path
-import sqlite3
 from fastapi import FastAPI
 from src.analyze import load_transactions_df, compute_kpis
 from src.budget import check_budgets
+from src.models import get_connection
 
 ROOT = Path(__file__).resolve().parent.parent
 app = FastAPI(title="Personal Expense Tracker API", version="1.0.0")
@@ -16,7 +16,7 @@ def health():
 
 @app.get("/transactions")
 def get_transactions():
-    conn = sqlite3.connect(str(ROOT / "db" / "expenses.db"))
+    conn = get_connection(ROOT / "db" / "expenses.db")
     df = load_transactions_df(conn)
     conn.close()
     df["tx_date"] = df["tx_date"].dt.strftime("%Y-%m-%d")
@@ -25,7 +25,7 @@ def get_transactions():
 
 @app.get("/kpis")
 def get_kpis():
-    conn = sqlite3.connect(str(ROOT / "db" / "expenses.db"))
+    conn = get_connection(ROOT / "db" / "expenses.db")
     df = load_transactions_df(conn)
     conn.close()
     return {"kpis": compute_kpis(df)}
@@ -33,7 +33,7 @@ def get_kpis():
 
 @app.get("/budget/{month}")
 def get_budget(month: str):
-    conn = sqlite3.connect(str(ROOT / "db" / "expenses.db"))
+    conn = get_connection(ROOT / "db" / "expenses.db")
     df = load_transactions_df(conn)
     budget_df = check_budgets(df, conn, month)
     conn.close()
