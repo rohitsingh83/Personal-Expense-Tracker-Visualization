@@ -1,5 +1,7 @@
 # Personal Expense Tracker with Data Visualization
 
+🌐 **Live report:** https://rohitsingh83.github.io/Personal-Expense-Tracker-Visualization/ · 💻 **Source:** https://github.com/rohitsingh83/Personal-Expense-Tracker-Visualization
+
 A personal-finance app built with **Python, Pandas, SQLite and Streamlit**. It records income and expenses,
 categorises them automatically, tracks monthly budgets, detects unusual spending, forecasts next month, and
 explains your money in plain English. Results come as an interactive dashboard, an **Excel workbook with charts**
@@ -79,7 +81,7 @@ Personal-Expense-Tracker-Visualization/
 │   └── generate_sample_data.py
 ├── outputs/                  # sample Excel, PDF and CSV reports
 ├── images/                   # charts and dashboard screenshots
-├── docs/                     # project explanation, interview Q&A
+├── docs/                     # live report (index.html, GitHub Pages), project explanation, interview Q&A
 ├── tests/test_expenses.py
 ├── main.py                   # command-line tool
 ├── app.py                    # Streamlit dashboard
